@@ -8,7 +8,7 @@ ood_cv_pose_url: https://drive.google.com/file/d/1djm2ugmk98__9jgL8Sqb_QUIIpC7e1
 
 # Path to preprocessed data
 pascal3d_data_path: data/PASCAL3D
-oodcv_data_path: data/OOD_CV
+oodcv_data_path: data/OOD_CV_prepared
 
 occ_levels:
     train: [0]
